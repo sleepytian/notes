@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="m1_expressionLanguage:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/m1_expressionLanguage_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="m1_expressionLanguage/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="m1_expressionLanguage" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
